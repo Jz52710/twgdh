@@ -1,0 +1,144 @@
+ *{
+        margin: 0;
+        padding: 0;
+    list-style:none;
+}
+
+    /*body{*/
+    /*    background: paleturquoise;*/
+    /*}*/
+    /*div{*/
+    /*    width: 400px;*/
+    /*    height: 400px;*/
+    /*    background: #000000;*/
+    /*    border-top: 200px solid #ffffff;*/
+    /*    border-radius: 50%;*/
+    /*    box-sizing: border-box;*/
+    /*    margin: 100px auto;*/
+    /*    position: relative;*/
+    /*    left: 0;*/
+    /*    top: 0;*/
+    /*}*/
+    /*div::before{*/
+    /*    content: "";*/
+    /*    width: 100px;*/
+    /*    height: 100px;*/
+    /*    background: white;*/
+    /*    border-radius: 50%;*/
+    /*    border: 50px solid #000000;*/
+    /*    position: absolute;*/
+    /*    left: 0;*/
+    /*    top: -100px;*/
+    /*}*/
+    /*div::after{*/
+    /*    content: "";*/
+    /*    width: 100px;*/
+    /*    height: 100px;*/
+    /*    background: black;*/
+    /*    border-radius: 50%;*/
+    /*    border: 50px solid #ffffff;*/
+    /*    position: absolute;*/
+    /*    right: 0;*/
+    /*    top: -100px;*/
+    /*}*/
+    /*div:hover{*/
+    /*    transform: rotate(360deg);*/
+    /*    transition: all 2s linear;*/
+    /*}*/
+/* .box{*/
+/*     width: 600px;*/
+/*     height: 100px;*/
+/*     background: antiquewhite;*/
+/*     font-size: 14px;*/
+/*     font-family: "苹方 常规";*/
+/*     text-align: center;*/
+/*     line-height: 100px;*/
+/* }*/
+/*a{*/
+/*    display: block;*/
+/*    width: 100px;*/
+/*    height: 100px;*/
+/*    float: left;*/
+/*    text-decoration: none;*/
+/*}*/
+/*a:hover{*/
+/*    color: pink;*/
+/*    background: aquamarine;*/
+/*}*/
+/* .box{*/
+/*     width: 200px;*/
+/*     height: 200px;*/
+/*     background: red;*/
+/*     float: left;*/
+/*     position: relative;*/
+/* }*/
+/* .box1{*/
+/*     width: 100px;*/
+/*     height: 100px;*/
+/*     background: white;*/
+/*     position: absolute;*/
+/*     left: 50px;*/
+/*     top: 50px;*/
+/* }*/
+ul{
+    width: 400px;
+    height: 400px;
+    background: red;
+}
+/*li{*/
+/*    width: 100px;*/
+/*    height: 100px;*/
+/*    background: pink;*/
+/*    float: left;*/
+/*    border-bottom: 2px solid black;*/
+/*}*/
+/*input{*/
+/*    width: 100px;*/
+/*    height: 50px;*/
+/*    background: yellow;*/
+/*    border: 0px;*/
+/*}*/
+/*.box{*/
+/*    width: auto;*/
+/*    height: 100px;*/
+/*}*/
+/*.son{*/
+/*    width: 100px;*/
+/*    height: 100px;*/
+/*    background: red;*/
+/*}*/
+/*.son:first-child{*/
+/*    background: blanchedalmond;*/
+/*}*/
+/*.son:nth-child(2){*/
+/*    background: blueviolet;*/
+/*}*/
+/*.son:last-child{*/
+/*    background: coral;*/
+/*}*/
+/* .box{*/
+/*     width: 200px;*/
+/*     height: 200px;*/
+/*     background: rebeccapurple;*/
+/* }*/
+/* .box:hover{*/
+/*     animation:long 2s linear;*/
+/* }*/
+/* @keyframes long {*/
+/*    0%{*/
+/*        width: 400px;*/
+/*    }*/
+/*     100%{*/
+/*         width: 600px;*/
+/*     }*/
+/* }*/
+.boxxxx{
+    width: 100%;
+    background: #e53935;
+}
+.boxxxxxs{
+    width: 1226px;
+    height: 100px;
+    background: pink;
+    margin: 0 auto;
+}
